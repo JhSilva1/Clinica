@@ -22,3 +22,11 @@
 
 # Travei em: Nada
 
+
+
+# \## Dia 4
+
+# Criei as tabelas medicos e consultas e fiz consultas com WHERE, ORDER BY, LIMIT e GROUP BY.
+
+# Travei em: a ordem das partes da consulta (FROM antes do WHERE, GROUP BY não é filtro).
+

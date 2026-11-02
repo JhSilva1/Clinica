@@ -14,3 +14,11 @@
 
 # Travei em: colar comandos no Git Bash e em entrar na pasta certa.
 
+
+
+# \## Dia 3
+
+# Fiz exercícios no SQL BOLT
+
+# Travei em: Nada
+
